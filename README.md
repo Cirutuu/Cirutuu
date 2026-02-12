@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hey, I'm Adi 👋
 
-<!--
-**Cirutuu/Cirutuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd Year CSE @ Amrita  
+Builder. Systems thinker. Long-term player.
 
-Here are some ideas to get you started:
+I don’t just write code for assignments — I build systems that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If something looks complex, I want to understand it from first principles.
+
+---
+
+## 🧠 Academic Focus
+
+- Data Structures & Algorithms
+- DBMS
+- Operating Systems (eXpOS, memory models, scheduling)
+- Linear Algebra & Discrete Mathematics
+- Modern Physics & Quantum concepts
+
+I prefer Java by default, but I work comfortably with:
+C • Java • Python • Haskell • SQL 
+
+I care about derivations, internals, and understanding *why* something works — not just making it run.
+
+---
+
+## 🚀 What I’ve Built
+
+- 📈 Limit Order Book using Red-Black Tree
+- 🌱 Music-from-Plants system (C)
+- 💬 Real-time Chat App (CockroachDB)
+- 🏭 Industry Safety Shutdown System
+- 🧠 Chain-of-Thought LLM system (Hackathon level)
+- 🔗 Blockchain-powered MSME Supply Chain platform
+- 📦 Givezy – Community Redistribution App  
+  (Electron + React + Express + MongoDB)
+- 📝 Online Quiz System (Java)
+
+I build across backend systems, distributed logic, databases, and system-level design.
+
+---
+
+## 💡 What Drives Me
+
+- Clean architecture > messy hacks
+- Performance > convenience
+- Depth > surface knowledge
+- Long-term leverage > short-term wins
+
+I’m interested in:
+- System design
+- FinTech / trading systems
+- AI systems
+- Blockchain infrastructure
+- Scalable backend engineering
+
+---
+
+## 🏀 Outside the Terminal
+
+- Basketball (daily discipline)
+- Structured routine
+- Focus on physical + mental performance
+- Think in terms of 5-year compounding, not 5-day trends
+
+---
+
+## 🎯 Direction
+
+Becoming:
+- A technical founder  
+- Or a top-tier engineer with business instincts  
+- Ideally both.
+
+---
+
+> Build things that scale.  
+> Understand things deeply.  
+> Earn status through competence.
