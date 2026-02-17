@@ -30,8 +30,6 @@ I care about derivations, internals, and understanding *why* something works —
 - 🌱 Music-from-Plants system (C)
 - 💬 Real-time Chat App (CockroachDB)
 - 🏭 Industry Safety Shutdown System
-- 🧠 Chain-of-Thought LLM system (Hackathon level)
-- 🔗 Blockchain-powered MSME Supply Chain platform
 - 📦 Givezy – Community Redistribution App  
   (Electron + React + Express + MongoDB)
 - 📝 Online Quiz System (Java)
@@ -63,6 +61,11 @@ I’m interested in:
 - Focus on physical + mental performance
 - Think in terms of 5-year compounding, not 5-day trends
 
+---
+## Currently working on
+- n8n
+- Blockchain (learning)
+- AI/ML
 ---
 
 ## 🎯 Direction
